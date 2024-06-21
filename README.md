@@ -1,6 +1,6 @@
 # Tp_Jee
 
-Ce projet est une application web JEE simple qui gère les patients d'un hôpital.
+Ce projet est une application web JEE qui gère les patients d'un hôpital.
 
 [Voici le lien vers le sujet](https://github.com/Florian00000/Tp_Jee/blob/main/Tp_jee.md) 
 
